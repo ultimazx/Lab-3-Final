@@ -1,0 +1,1 @@
+Java files has the java code, lab3_1 the arduino code, the server folder has the server code, and graphview and socket.io-client master is the jars needed with the java code.
